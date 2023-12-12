@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:wght@400;700&display=swap');
+
+body{
+    background-color: rgb(211, 211, 211);
+    color: rgb(250, 249, 246);
+    font-family: 'Rethink Sans', sans-serif;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: rgb(200, 200, 200);
+}
+#about {
+    margin-top:75px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+}
